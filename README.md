@@ -1,6 +1,6 @@
 # useStringFormatter
 useStringFormatter is custom hook helps in converting string to lowercase, uppercase, camelCase,
-pascalCase, snakeCase, kebabCase and trim the extra spaces.
+pascalCase, snakeCase, kebabCase and trims the extra spaces.
 
 # Usage
 - Import the useStringFormatter in your project.
@@ -20,5 +20,10 @@ pascalCase, snakeCase, kebabCase and trim the extra spaces.
 # installation
 To use the custom hook install the hook by using 
 `npm install useStringFormatter`
+
+# contribute
+- Open the pull request
+- Provide a clear description about PR
+- Test the code base with your changes
 
 
