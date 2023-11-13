@@ -6,7 +6,7 @@ pascalCase, snakeCase, kebabCase and trims the extra spaces.
 - Import the useStringFormatter in your project 
     ```
     import useStringFormatter from '@vinaybhat/usestringformatter/lib/useStringFormatter';
-    ```.
+    
 - pass the string as an argument to the useStringFormatter('string')
 - useStringFormatter returns the object of functions.
 - each functions can be invoked as
