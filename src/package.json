@@ -1,6 +1,6 @@
 {
-  "name": "@vinay/usestringformatter",
-  "version": "1.0.0",
+  "name": "@vinaybhat/usestringformatter",
+  "version": "1.0.1",
   "description": "useStringFormatter is custom hook helps in converting string to lowercase, uppercase, camelCase, pascalCase, snakeCase, kebabCase and trim",
   "main": "useStringFormatter.ts",
   "scripts": {
